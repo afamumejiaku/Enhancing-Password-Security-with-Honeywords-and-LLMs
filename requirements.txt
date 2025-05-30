@@ -1,0 +1,11 @@
+json
+matplotlib
+nltk
+numpy
+openai
+os
+pandas
+random
+re
+seaborn
+zxcvbn

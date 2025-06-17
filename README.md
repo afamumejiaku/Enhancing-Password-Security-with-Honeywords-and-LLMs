@@ -1,7 +1,7 @@
 # Repository for Journal of Information Security and Applications Paper "Enhancing password security with honeywords and LLMs"
 
 This repository contains all the code and resources necessary for fine-tuning OpenAI's Large Language Models (LLMs) on password datasets, generating secure passwords, evaluating model performance, benchmarking against existing tools, and conducting honeyword analysis.
----
+
 
 ## 📌 Repository Overview
 
@@ -49,26 +49,12 @@ The main functionalities provided in this repository include:
 1. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
-
-
-## Installation
-
-Install the dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run any script using:
-
-```bash
-python <script_name>.py
-```
-
-Each script is self-contained and includes its own documentation at the top but you will need your Open-AI Api key.
+   ```
+2. Usage
+   ```bash
+   python <script_name>.py
+   ```
+   You will need your Open-AI Api key.
 
 ## License
-
 This repository is released under the MIT License.

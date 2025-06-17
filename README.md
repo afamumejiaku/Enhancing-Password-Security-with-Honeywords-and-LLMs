@@ -38,7 +38,9 @@ The main functionalities provided in this repository include:
 
 - Source: [GitHub - tensorflow-1.4-billion-password-analysis](https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis)
 
-### 📌 Honeyword Analysis Dataset: Honeyword simulation code adapted from the paper:  
+## 📂 Honeyword Analysis
+
+### 📌 Honeyword simulation code adapted from the paper:  
   *The Impact of Exposed Passwords on Honeyword Efficacy*  
  - Source: [https://github.com/zonghaohuang007/honeywords-analysis](https://github.com/zonghaohuang007/honeywords-analysis)
 
